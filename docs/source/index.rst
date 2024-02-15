@@ -16,7 +16,7 @@ Contents
 .. toctree::
 
    Home <self>
+   lore
    todo
    log
-   lore
    areas
