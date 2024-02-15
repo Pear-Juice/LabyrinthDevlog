@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Labyrinth Game'
+copyright = '2024, Pear Juice'
+author = 'Pear Juice'
 
 release = '0.1'
 version = '0.1.0'
