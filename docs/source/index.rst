@@ -15,5 +15,7 @@ Contents
 
 .. toctree::
 
+   todo
+   log
    lore
    areas
