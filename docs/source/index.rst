@@ -5,10 +5,10 @@ Just a little slime exploring a slightly malevolant labyrinth.
 
 .. What's Been Updated::
 
-   Todo
-   Log
    Areas
    Lore
+   Todo
+   Log
    
 Contents
 --------
