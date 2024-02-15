@@ -17,6 +17,6 @@ Contents
 
    Home <self>
    lore
+   areas
    todo
    log
-   areas
