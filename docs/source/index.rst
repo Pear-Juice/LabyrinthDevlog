@@ -14,7 +14,8 @@ Contents
 --------
 
 .. toctree::
-   
+
+   Home <self>
    todo
    log
    lore
