@@ -1,7 +1,7 @@
 Labyrinth Game Devlog!
 ===================================
 
-Just a little slime exploring a malevolant labyrinth.
+Just a little slime exploring a slightly malevolant labyrinth.
 
 .. What's Been Updated::
 
