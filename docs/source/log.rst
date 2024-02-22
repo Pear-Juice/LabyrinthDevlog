@@ -1,5 +1,7 @@
 Log
 ===
+Wednesday: 2/21/24
+  Fixed walljump height so you cant climb walls infinitly
 Tuesday: 2/20/24
   Begun drawing backgrounds
   Questioning current visual style as there is no vibe
