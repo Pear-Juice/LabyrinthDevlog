@@ -1,4 +1,4 @@
 Todo
 ----
-Bounce smash off walls
-Test monochromatic visual style
+| Bounce smash off walls
+| Test monochromatic visual style
