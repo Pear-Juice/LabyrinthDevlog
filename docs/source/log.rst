@@ -1,3 +1,7 @@
+Tuesday: 2/27/24
+================
+Bugfixing smash bounce ability
+Created three new rooms
 Log
 ===
 Wednesday: 2/21/24
