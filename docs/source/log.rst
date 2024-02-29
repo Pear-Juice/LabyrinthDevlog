@@ -3,8 +3,6 @@ Log
 Tuesday: 2/27/24
   | Bugfixing smash bounce ability
   | Created three new rooms
-Log
-===
 Wednesday: 2/21/24
   Fixed walljump height so you cant climb walls infinitly
 Tuesday: 2/20/24
