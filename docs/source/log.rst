@@ -1,5 +1,11 @@
 Log
 ===
+Thursday: 2/29/24
+  | Finished smash bounce code, animation is pending till art style has been solidified
+  | Created three new areas at the beginning of the game for skill training
+  | Changed naming system from coordinates to description of purpose
+    | This means areas can be put between  other areas without the need to rename every single other room. It also works to better identify what each room is and create purpose for why it exists 
+    | This does make conceptualizing space more difficult and will make an external program necessary to keep track necessary in the future 
 Tuesday: 2/27/24
   | Bugfixing smash bounce ability
   | Created three new rooms
