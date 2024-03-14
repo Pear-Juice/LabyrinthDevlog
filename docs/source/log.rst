@@ -1,5 +1,19 @@
 Log
 ===
+Wednesday: 3/14/24
+  | Wow it has been a minute since I've updated this
+  | Fixed so many bugs with smash bounce
+  | Fixed wall jump to smash not bouncing
+  | Added wall smash bounce modifier
+  | Made smashing preserve velocity
+  | Tweaked bounce pad's launce force
+  | Solidified art style to be drawn flat color and stylistic and mostly monochrome
+  | Added in two new areas designed to teach smash bounce ability
+  | Placed half blocks everywhere to make wall jump training a little easier, still need to play test with those who are not familiar with wall jumping
+  | Playtested playtested playtested, who knew it is so hard to teach people how to use a complex ability. Can't wait to teach diagonal smash woohoo
+  | Figured out that the very first challenge everyone gets stuck on in the same way, swapping around the first and last challenges of that room should fix it
+  | Fixed player able to trigger other room switchers whilst switching by teleporting them far away during. This does cause a 1 frame flicker meaning some transition might be needed
+  | That's all folks, hope to keep logs a little more consistent
 Thursday: 2/29/24
   | Finished smash bounce code, animation is pending till art style has been solidified
   | Created three new areas at the beginning of the game for skill training
