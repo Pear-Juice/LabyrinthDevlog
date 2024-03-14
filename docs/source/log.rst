@@ -1,6 +1,6 @@
 Log
 ===
-Wednesday: 3/14/24
+Wednesday: 3/14/24 (And earlier dates)
   | Wow it has been a minute since I've updated this
   | Fixed so many bugs with smash bounce
   | Fixed wall jump to smash not bouncing
