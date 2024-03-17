@@ -1,7 +1,7 @@
 Log
 ===
 Thursday: 3/15/24
-  | Made faster velocities than default movement speed persist even after touching the ground
+  Made faster velocities than default movement speed persist even after touching the ground
   | This came as a result of modifying the movement code to make anything that moves you faster than default movement speed not have the requirement of holding the desired direction immediately or holding no button at all
   |
   | This when changed was decided to be a feature but it is notably very broken and allows for infinite accumulation of velocity. Making levels that can't easily be cheesed may be a problem 
