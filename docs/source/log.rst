@@ -1,5 +1,7 @@
 Log
 ===
+Saturday: 3/16/24
+  | Moving faster than default movement speed into left wall smash would not bounce, velocity calculations were at fault and is now fixed
 Thursday: 3/15/24
   | Made faster velocities than default movement speed persist even after touching the ground
   | This came as a result of modifying the movement code to make anything that moves you faster than default movement speed not have the requirement of holding the desired direction immediately or holding no button at all
