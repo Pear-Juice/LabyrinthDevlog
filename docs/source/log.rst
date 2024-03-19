@@ -1,4 +1,4 @@
-Log
+noLog
 ===
 Tuesday: 3/19/24
   | Notably being written at 4 am after having listened to too many Magnus Archives episodes. Inspiration afoot.. Thoughts on moving towards a more horror esc vibe as I cannot think of a single horror skill platformer and I can only imagine. Also been thinking about redesigning the character for many days now and I'm thinking something with claws.. I can imagine some cool animations surrounding sliding down walls and leaving scratch marks. Recently I watched a video from Jonas Tyroller about optimal searching for game direction and how at the beginning many new ideas should be tested as well as large direction jumps can be incredibly necessary. This to me feels like I landed on something gold. Plus I've kinda wanted to make something horror for a while now.
@@ -9,7 +9,7 @@ Tuesday: 3/19/24
 |
 | Multiple phases for hook: Pull, pull a d slide, pull and bounce
 | 
-| Possession of enemy ability? Current control system could make this extremely feasible as enemies could use the same input tags as the player. Difficulty comes from reassigning things like camera to the enemy and allowing it through door transitions but that should be simple. Possession should last until the enemy dies in which the player resumes from where it was before possession. This could work as a way to explore inaccessible areas or function similarly to Celeste binoculars. Best way to write this in will be to further decouple what a player is which should give the ability to reassign the player to any other suitable creature.
+| Possession of enemy ability? Current control system could make this extremely feasible as enemies could use the same input tags as the player. Difficulty comes from reassigning things like camera to the enemy and allowing it through door transitions but that should be simple. Possession should last until the enemy dies in which the player resumes from where it was before possession. This could work as a way to explore inaccessible areas or function similarly to Celeste binoculars. Best way to write this in will be to further decouple what a player is which should give the ability to reassign the player to any other suitable creature. Possible methods for balancing include time limits, damage on exit as if the host takes notice and licks you out, and possibly visual restrictions depending on the creature.
 
 Monday: 3/18/24
   | Fixed bugs surrounding coyote time and jump queuing. Half was leftover from debugging wall jump + smash with a cheeky return statement at the beginning of the input function. Non goofy mistakes were having time checks for input time stamp and ground / wall hit timestamp flipped. I do not know how I only realized now.
