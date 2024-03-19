@@ -1,7 +1,16 @@
 Log
 ===
+Tuesday: 3/19/24
+  | Notably being written at 4 am after having listened to too many Magnus Archives episodes. Inspiration afoot.. Thoughts on moving towards a more horror esc vibe as I cannot think of a single horror skill platformer and I can only imagine. Also been thinking about redesigning the character for many days now and I'm thinking something with claws.. I can imagine some cool animations surrounding sliding down walls and leaving scratch marks. Recently I watched a video from Jonas Tyroller about optimal searching for game direction and how at the beginning many new ideas should be tested as well as large direction jumps can be incredibly necessary. This to me feels like I landed on something gold. Plus I've kinda wanted to make something horror for a while now.
+
+Monday: 3/18/24
+  | Fixed bugs surrounding coyote time and jump queuing. Half was leftover from debugging wall jump + smash with a cheeky return statement at the beginning of the input function. Non goofy mistakes were having time checks for input time stamp and ground / wall hit timestamp flipped. I do not know how I only realized now.
+  |
+  | Built a fun testing area for smash bounces capability. Turns out it's a lot and a Celeste recharge system might be needed for balancing and control over uses
+
 Saturday: 3/16/24
   | Moving faster than default movement speed into left wall smash would not bounce, velocity calculations were at fault and is now fixed
+
 Thursday: 3/15/24
   | Made faster velocities than default movement speed persist even after touching the ground
   | This came as a result of modifying the movement code to make anything that moves you faster than default movement speed not have the requirement of holding the desired direction immediately or holding no button at all
@@ -21,17 +30,21 @@ Wednesday: 3/14/24 (And earlier dates)
   | Figured out that the very first challenge everyone gets stuck on in the same way, swapping around the first and last challenges of that room should fix it
   | Fixed player able to trigger other room switchers whilst switching by teleporting them far away during. This does cause a 1 frame flicker meaning some transition might be needed
   | That's all folks, hope to keep logs a little more consistent
+
 Thursday: 2/29/24
   | Finished smash bounce code, animation is pending till art style has been solidified
   | Created three new areas at the beginning of the game for skill training
   | Changed naming system from coordinates to description of purpose
     | This means areas can be put between  other areas without the need to rename every single other room. It also works to better identify what each room is and create purpose for why it exists 
     | This does make conceptualizing space more difficult and will make an external program necessary to keep track necessary in the future 
+
 Tuesday: 2/27/24
   | Bugfixing smash bounce ability
   | Created three new rooms
+
 Wednesday: 2/21/24
   Fixed walljump height so you cant climb walls infinitly
+
 Tuesday: 2/20/24
   Begun drawing backgrounds
   Questioning current visual style as there is no vibe
