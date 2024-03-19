@@ -6,6 +6,8 @@ Tuesday: 3/19/24
 | Possible idea for game beginning: Walking up to a massive wall, camera zooming in as you approach. Enter a pillared corridor with graffiti on the wall saying something like ye who enter, perish yada yada, stay out. Then big sliding door and fade to black.
 |
 | Idea for character weapon and smash ability. They carry a chain hook which  grapples and pulls towards walls. A dagger to slash with. And combining the two to reel in enemies into the dagger for massive damage. Later have upgrades for barbed hook and such.
+|
+| Multiple phases for hook: Pull, pull a d slide, pull and bounce
 
 Monday: 3/18/24
   | Fixed bugs surrounding coyote time and jump queuing. Half was leftover from debugging wall jump + smash with a cheeky return statement at the beginning of the input function. Non goofy mistakes were having time checks for input time stamp and ground / wall hit timestamp flipped. I do not know how I only realized now.
