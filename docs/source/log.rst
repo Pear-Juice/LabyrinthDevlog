@@ -4,6 +4,8 @@ Tuesday: 3/19/24
   | Notably being written at 4 am after having listened to too many Magnus Archives episodes. Inspiration afoot.. Thoughts on moving towards a more horror esc vibe as I cannot think of a single horror skill platformer and I can only imagine. Also been thinking about redesigning the character for many days now and I'm thinking something with claws.. I can imagine some cool animations surrounding sliding down walls and leaving scratch marks. Recently I watched a video from Jonas Tyroller about optimal searching for game direction and how at the beginning many new ideas should be tested as well as large direction jumps can be incredibly necessary. This to me feels like I landed on something gold. Plus I've kinda wanted to make something horror for a while now.
 | 
 | Possible idea for game beginning: Walking up to a massive wall, camera zooming in as you approach. Enter a pillared corridor with graffiti on the wall saying something like ye who enter, perish yada yada, stay out. Then big sliding door and fade to black.
+|
+| Idea for character weapon and smash ability. They carry a chain hook which  grapples and pulls towards walls. A dagger to slash with. And combining the two to reel in enemies into the dagger for massive damage
 
 Monday: 3/18/24
   | Fixed bugs surrounding coyote time and jump queuing. Half was leftover from debugging wall jump + smash with a cheeky return statement at the beginning of the input function. Non goofy mistakes were having time checks for input time stamp and ground / wall hit timestamp flipped. I do not know how I only realized now.
