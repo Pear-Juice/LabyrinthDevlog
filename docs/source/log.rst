@@ -8,6 +8,8 @@ Tuesday: 3/19/24
 | Idea for character weapon and smash ability. They carry a chain hook which  grapples and pulls towards walls. A dagger to slash with. And combining the two to reel in enemies into the dagger for massive damage. Later have upgrades for barbed hook and such.
 |
 | Multiple phases for hook: Pull, pull a d slide, pull and bounce
+| 
+| Possession of enemy ability? Current control system could make this extremely feasible as enemies could use the same input tags as the player. Difficulty comes from reassigning things like camera to the enemy and allowing it through door transitions but that should be simple. Possession should last until the enemy dies in which the player resumes from where it was before possession. This could work as a way to explore inaccessible areas or function similarly to Celeste binoculars. Best way to write this in will be to further decouple what a player is which should give the ability to reassign the player to any other suitable creature.
 
 Monday: 3/18/24
   | Fixed bugs surrounding coyote time and jump queuing. Half was leftover from debugging wall jump + smash with a cheeky return statement at the beginning of the input function. Non goofy mistakes were having time checks for input time stamp and ground / wall hit timestamp flipped. I do not know how I only realized now.
