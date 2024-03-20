@@ -1,5 +1,13 @@
-noLog
+Log
 ===
+Wednesday: 3/20/24
+  | Most creatures that are fast should have limited range
+  | Break tone armor by having most enemies unable to follow between rooms
+  | Creature ideas:
+  | Snake like things hiss hiss
+  | Many legs grab
+  | Things that go pop
+
 Tuesday: 3/19/24
   | Notably being written at 4 am after having listened to too many Magnus Archives episodes. Inspiration afoot.. Thoughts on moving towards a more horror esc vibe as I cannot think of a single horror skill platformer and I can only imagine. Also been thinking about redesigning the character for many days now and I'm thinking something with claws.. I can imagine some cool animations surrounding sliding down walls and leaving scratch marks. Recently I watched a video from Jonas Tyroller about optimal searching for game direction and how at the beginning many new ideas should be tested as well as large direction jumps can be incredibly necessary. This to me feels like I landed on something gold. Plus I've kinda wanted to make something horror for a while now.
 | 
