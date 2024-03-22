@@ -1,8 +1,7 @@
 Todo
 ----
-| Bounce smash animation
-| Slime tendril animation
-| Test monochromatic visual style
+| Make parallax an attachable script
+| Make loopable moving images 
 | Momentum preserving liquid
 | Speedrun timer?
 | Smash bounce through object
