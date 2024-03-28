@@ -6,3 +6,4 @@ Todo
 | Speedrun timer?
 | Smash bounce through object
 | Snake trap 
+| Sensory type: Camouflage distance to wall
