@@ -1,5 +1,9 @@
 Log
 ===
+Wednesday: 4/3/24
+  | Thoughts on the gameplay loop: Robots require power and recharge stations must be found. Recharge stations can also work as spawn points
+  | Rooms when they move should visibly shift this could be done on rails? Moving rooms while you are in the could create extremely interesting gameplay
+
 Wednesday: 3/20/24
   | Most creatures that are fast should have limited range
   | Break tone armor by having most enemies unable to follow between rooms
