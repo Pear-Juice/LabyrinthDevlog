@@ -1,8 +1,19 @@
 Log
 ===
+Thursday: 4/4/24
+  | "Swapped" animated sprite for animation player and animation tree which took forever
+  | Result is a cleaner code that is somewhat more powerful and can do things like trigger sound effects in sync with animation
+  | Consequence being my sanity
+  | Next thing to do is move away from animation and movement code and make save points an actual game mechanic though if I am feeling bored I can either work on spring ability or some more animating
+
 Wednesday: 4/3/24
   | Thoughts on the gameplay loop: Robots require power and recharge stations must be found. Recharge stations can also work as spawn points
   | Rooms when they move should visibly shift this could be done on rails? Moving rooms while you are in the could create extremely interesting gameplay
+
+Tuesday: 4/2/24
+  | Drew so so many animations
+  | Jumping, jump release, running jump and release, slink run, beginnings of wall slide and climb, etc
+  | Overall cat is looking much more complete 
 
 Wednesday: 3/20/24
   | Most creatures that are fast should have limited range
